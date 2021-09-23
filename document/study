@@ -1,0 +1,18 @@
+07版本前
+
+Excel 的工作簿对应POI的HSSFWorkbook对象；
+Excel 的工作表对应POI的HSSFSheet对象；
+Excel 的行对应POI的HSSFRow对象；
+Excel 的单元格对应POI的HSSFCell对象。
+07版本及07以后版本
+
+Excel 的工作簿对应POI的XSSFWorkbook对象；
+Excel 的工作表对应POI的XSSFSheet对象；
+Excel 的行对应POI的XSSFRow对象；
+Excel 的单元格对应POI的XSSFCell对象。
+
+
+
+https://www.cnblogs.com/huajiezh/p/5467821.html
+
+https://www.jianshu.com/p/4f08c27ca0c4
